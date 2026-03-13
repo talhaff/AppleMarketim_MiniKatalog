@@ -24,11 +24,11 @@ Bu proje, Flutter kullanılarak geliştirilmiş modern, dinamik ve kullanıcı d
 
 | Keşfet (Ana Sayfa) | Ürün Detay | Özel Fırsatlar |
 | :---: | :---: | :---: |
-| <img src="screenshots/TalhaOzcan_Goruntu1.png" width="200"/> | <img src="screenshots/TalhaOzcan_Goruntu2.png" width="200"/> | <img src="screenshots/TalhaOzcan_Goruntu3.png" width="200"/> |
+| <img src="Screenshots/TalhaOzcan_Goruntu1.png" width="200"/> | <img src="Screenshots/TalhaOzcan_Goruntu2.png" width="200"/> | <img src="Screenshots/TalhaOzcan_Goruntu3.png" width="200"/> |
 
 | Favoriler | Sepetim |
 | :---: | :---: |
-| <img src="screenshots/TalhaOzcan_Goruntu4.png" width="200"/> | <img src="screenshots/TalhaOzcan_Goruntu5.png" width="200"/> |
+| <img src="Screenshots/TalhaOzcan_Goruntu4.png" width="200"/> | <img src="Screenshots/TalhaOzcan_Goruntu5.png" width="200"/> |
 
 
 ## ⚙️ Kurulum ve Çalıştırma Adımları
