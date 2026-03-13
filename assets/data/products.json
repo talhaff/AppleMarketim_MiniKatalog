@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro (2. Nesil)",
+    "description": "Yeni nesil Aktif Gürültü Engelleme özelliği ile donatılmış AirPods Pro, büyüleyici ve kesintisiz bir ses deneyimi sunar.",
+    "price": 249.0,
+    "imageUrl": "assets/images/airpods_pro.png"
+  },
+  {
+    "id": 2,
+    "name": "HomePod Mini",
+    "description": "İnovasyonla dolu HomePod mini, boyutundan beklenmeyecek kadar devasa ve zengin bir ses üretir.",
+    "price": 99.0,
+    "imageUrl": "assets/images/homepod_mini.png"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro 14\"",
+    "description": "Bilgisayar Mühendisliği projeleri için süper güç. Şimdiye kadarki en güçlü MacBook Pro, kod derleme hızınızı uçuracak.",
+    "price": 1999.0,
+    "imageUrl": "assets/images/macbook_pro.png"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 15 Pro",
+    "description": "Hafif ve dayanıklı titanyum tasarım. A17 Pro çip ile tamamen yeni bir mobil oyun ve performans seviyesi.",
+    "price": 999.0,
+    "imageUrl": "assets/images/iphone_15.png"
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro 12.9\"",
+    "description": "Akıllara durgunluk veren Apple M2 çipi. Göz kamaştıran Liquid Retina XDR ekran ile tablet deneyiminin zirvesi.",
+    "price": 1099.0,
+    "imageUrl": "assets/images/ipad_pro.png"
+  },
+  {
+    "id": 6,
+    "name": "Apple Watch Series 9",
+    "description": "Daha akıllı. Daha parlak. Ekrana dokunmadan saatinizi kullanmanın sihirli yeni bir yolu (Çift Dokunuş).",
+    "price": 399.0,
+    "imageUrl": "assets/images/apple_watch.png"
+  }
+]
